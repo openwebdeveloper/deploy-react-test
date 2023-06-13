@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>It's a test page for deploying React app</p>
       </header>
     </div>
   );
